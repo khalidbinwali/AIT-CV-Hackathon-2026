@@ -1,0 +1,6 @@
+--- TEST RESULTS ---
+mAP@50: 0.7918
+mAP@50-95: 0.6457
+Precision: 0.9162
+Recall: 0.6371
+Results dir: C:\Users\ZAH\Desktop\Hackathon_Dataset\Hackathon2_scripts\runs\detect\val10
